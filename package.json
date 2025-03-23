@@ -19,16 +19,11 @@
     "eslint-js": "^9.15.0",
     "@metamask/browser-passworder": "6.0.0",
     "@types/node": "^22.13.10",
-    "archiver": "7.0.1",
     "eslint": "9.21.0",
     "eslint-config-prettier": "10.0.2",
     "eslint-plugin-prettier": "5.2.3",
     "tar": "^7.4.3",
     "tsx": "4.19.3",
-    "typescript-eslint": "8.26.0",
-    "unzipper": "^0.12.3",
-    "form-data": "4.0.2",
-    "node-fetch": "3.3.2",
-    "sqlite3": "5.1.7"
+    "typescript-eslint": "8.26.0"
   }
 }
