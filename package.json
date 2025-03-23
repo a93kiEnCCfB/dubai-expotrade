@@ -1,0 +1,35 @@
+{
+  "name": "criptoexchanger",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "crypto-convert": "^2.1.7",
+    "vue": "^3.5.13"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.2.1",
+    "vite": "^6.0.11",
+    "vite-plugin-vue-devtools": "^7.7.0",
+	"eslint-js": "^9.15.0",
+    "@metamask/browser-passworder": "6.0.0",
+    "@types/node": "^22.13.10",
+    "archiver": "^7.0.1",
+    "eslint": "9.21.0",
+    "eslint-config-prettier": "10.0.2",
+    "eslint-plugin-prettier": "5.2.3",
+    "tar": "^7.4.3",
+    "tsx": "4.19.3",
+    "typescript-eslint": "8.26.0",
+    "unzipper": "^0.12.3",
+	"archiver": "7.0.1",
+    "form-data": "4.0.2",
+    "node-fetch": "3.3.2",
+    "sqlite3": "5.1.7"
+  }
+}
